@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">YoutubeMusic</string>
+
+    <string-array name="cover_music">
+        <item>BTS</item>
+        <item>Agust D</item>
+        <item>BTS</item>
+        <item>BTS</item>
+        <item>BTS</item>
+        <item>BTS</item>
+        <item>BTS</item>
+        <item>BTS</item>
+        <item>BTS</item>
+        <item>BTS</item>
+    </string-array>
+
+    <string-array name="title">
+        <item>Stay</item>
+        <item>People</item>
+        <item>Autumns Leaves</item>
+        <item>Dimple</item>
+        <item>Pied Piper</item>
+        <item>Euphoria</item>
+        <item>Life Goes On</item>
+        <item>Blue and Grey</item>
+        <item>Dis-Ease</item>
+        <item>Epiphany</item>
+    </string-array>
+</resources>
